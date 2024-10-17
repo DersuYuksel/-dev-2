@@ -20,7 +20,7 @@ public class Active : MonoBehaviour
         {
             if (scriptToActivate != null)
             {
-                scriptToActivate.enabled = true; // Script'i aktif et
+                scriptToActivate.enabled = true; 
             }
         }
     }
